@@ -11,7 +11,7 @@
   "author": "Harshit Kumar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
   }
-  
 }
